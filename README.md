@@ -1,3 +1,5 @@
+7GUIs_Counter_app
+
 There are two components in this app, button and label. So, I use span to display the number, and use button to call the function.
 
 The initial number of the label is 0, so I use useState to initialize its number with 0.
